@@ -1,4 +1,4 @@
-### **Using OSINT as a "Poor Man's CRM": Enhancing Your CRM Skillset with Open Source Intelligence**
+## **Using OSINT as a "Poor Man's CRM": Enhancing Your CRM Skillset with Open Source Intelligence**
 
 **Introduction:**  
 In the realm of Customer Relationship Management (CRM), access to high-quality, comprehensive information is crucial for success. While CRMs provide powerful tools for managing and analyzing customer data, **Open Source Intelligence (OSINT)** offers an alternative, cost-effective method of gathering actionable intelligence from publicly available sources. OSINT is often referred to as the "poor man's CRM" because it leverages freely accessible data to glean insights about prospects, competitors, and markets.
@@ -13,37 +13,37 @@ One of the most straightforward yet powerful OSINT tools at your disposal is **G
 #### **Essential Search Operators**  
 | Operator | What it Does | Example |
 | -------- | ------------ | ------- |
-| `" "` | Search for an exact word or phrase. | `"Steve Jobs"` |
-| `OR` | Search for results related to X or Y. | `jobs OR gates` |
-| `-` | Exclude certain words or phrases. | `jobs -apple` |
-| `*` | Wildcard matching any word or phrase. | `Steve * Apple` |
-| `site:` | Search within a specific website. | `site:apple.com` |
-| `filetype:` | Search for specific file types (e.g., PDFs). | `apple filetype:pdf` |
-| `related:` | Find websites related to a given domain (competitors). | `related:ahrefs.com` |
-| `intitle:` | Search for pages with a specific word in the title. | `intitle:apple` |
+| " " | Search for an exact word or phrase. | "Steve Jobs" |
+| OR | Search for results related to X or Y. | jobs OR gates |
+| - | Exclude certain words or phrases. | jobs -apple |
+| * | Wildcard matching any word or phrase. | Steve * Apple |
+| site: | Search within a specific website. | site:apple.com |
+| filetype: | Search for specific file types (e.g., PDFs). | apple filetype:pdf |
+| related: | Find websites related to a given domain (competitors). | related:ahrefs.com |
+| intitle: | Search for pages with a specific word in the title. | intitle:apple |
 
 
 #### **Additional Search Operators**  
 | Operator | What it Does | Example |
 | -------- | ------------ | ------- |
-| `allintitle:`   | Search for pages with multiple words in the title tag.      | `allintitle:apple iphone`      |
-| `inurl:`        | Search for pages with a particular word in the URL.         | `inurl:apple`                  |
-| `allinurl:`     | Search for pages with multiple words in the URL.            | `allinurl:apple iphone`        |
-| `intext:`       | Search for pages with a particular word in their content.   | `intext:apple iphone`          |
-| `allintext:`    | Search for pages with multiple words in their content.      | `allintext:apple iphone`       |
-| `weather:`      | Search for the weather in a location.                       | `weather:san francisco`        |
-| `stocks:`       | Search for stock information for a ticker.                  | `stocks:aapl`                  |
-| `map:`          | Force Google to show map results.                          | `map:silicon valley`           |
-| `movie:`        | Search for information about a movie.                       | `movie:steve jobs`             |
-| `in`            | Convert one unit to another.                                | `$329 in GBP`                  |
-| `source:`       | Search for results from a particular source in Google News. | `apple source:the_verge`       |
-| `before:`       | Search for results from before a particular date.           | `apple before:2007-06-29`      |
-| `after:`        | Search for results from after a particular date.            | `apple after:2007-06-29`       |
+| allintitle:   | Search for pages with multiple words in the title tag.      | allintitle:apple iphone      |
+| inurl:        | Search for pages with a particular word in the URL.         | inurl:apple                  |
+| allinurl:     | Search for pages with multiple words in the URL.            | allinurl:apple iphone        |
+| intext:       | Search for pages with a particular word in their content.   | intext:apple iphone          |
+| allintext:    | Search for pages with multiple words in their content.      | allintext:apple iphone       |
+| weather:      | Search for the weather in a location.                       | weather:san francisco        |
+| stocks:       | Search for stock information for a ticker.                  | stocks:aapl                  |
+| map:          | Force Google to show map results.                          | map:silicon valley           |
+| movie:        | Search for information about a movie.                       | movie:steve jobs             |
+| in            | Convert one unit to another.                                | $329 in GBP                  |
+| source:       | Search for results from a particular source in Google News. | apple source:the_verge       |
+| before:       | Search for results from before a particular date.           | apple before:2007-06-29      |
+| after:        | Search for results from after a particular date.            | apple after:2007-06-29       |
 
-**Pro Tip:** Combining multiple operators can narrow down results to pinpoint exactly what you need. For example, use `site:ultimaker.com filetype:pdf` to find PDFs on a website that could contain valuable data.
+**Pro Tip:** Combining multiple operators can narrow down results to pinpoint exactly what you need. For example, use site:ultimaker.com filetype:pdf to find PDFs on a website that could contain valuable data.
 
 #### **Use Case:** Identifying Competitors  
-Use the `related:` operator to uncover websites related to yours, helping identify competitors and other industry players. Example: `related:hubspot.com` to find CRM competitors to HubSpot.
+Use the related: operator to uncover websites related to yours, helping identify competitors and other industry players. Example: related:hubspot.com to find CRM competitors to HubSpot.
 
 ---
 
