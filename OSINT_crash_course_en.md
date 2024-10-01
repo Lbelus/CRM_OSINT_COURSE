@@ -1,4 +1,17 @@
 ## **Using OSINT as a "Poor Man's CRM": Enhancing Your CRM Skillset with Open Source Intelligence**
+### **7. Advanced Techniques: Reverse Image Search and Metadata**  
+**Reverse Image Search**: Use profile pictures found online (e.g., LinkedIn) to search for related accounts and uncover additional information.
+
+**Exif Data**: Use tools like [Exif.tools](https://exif.tools) to extract metadata from images. This can reveal information such as the location where a photo was taken, which may assist in geographically targeting prospects.
+
+---
+
+**Disclaimers:**
+While OSINT is a powerful tool, it's crucial to use it responsibly:
+
+- Respect Privacy: Always ensure that the information gathered is publicly available and that you're not infringing on personal privacy or data protection laws.
+- Avoid Deceptive Practices: Creating fake identities or misrepresenting oneself to obtain information is unethical and may violate legal statutes.
+- Compliance with Laws: Be mindful of regulations such as GDPR, CCPA, and other data protection laws that govern the collection and use of personal data.
 
 **Introduction:**  
 In the realm of Customer Relationship Management (CRM), access to high-quality, comprehensive information is crucial for success. While CRMs provide powerful tools for managing and analyzing customer data, **Open Source Intelligence (OSINT)** offers an alternative, cost-effective method of gathering actionable intelligence from publicly available sources. OSINT is often referred to as the "poor man's CRM" because it leverages freely accessible data to glean insights about prospects, competitors, and markets.
@@ -90,7 +103,14 @@ Sometimes, OSINT research requires the creation of a **"sock puppet"**—a fake 
 
 ---
 
-### **5. Tools for Gathering and Verifying Information**  
+### **5. Advanced Techniques: Reverse Image Search and Metadata**  
+**Reverse Image Search**: Use profile pictures found online (e.g., LinkedIn) to search for related accounts and uncover additional information.
+
+**Exif Data**: Use tools like [Exif.tools](https://exif.tools) to extract metadata from images. This can reveal information such as the location where a photo was taken, which may assist in geographically targeting prospects.
+
+---
+
+### **6. Tools for Gathering and Verifying Information**  
 #### **Discovering Email Addresses**:
 - **Hunter.io**: Find valid email addresses related to a domain.
 - **Phonebook.cz**: Search for a list of email addresses.
@@ -106,7 +126,7 @@ Data breaches often expose personal information. You can use these resources to 
 
 ---
 
-### **6. Finding People and Phone Numbers**  
+### **7. Finding People and Phone Numbers**  
 For more targeted CRM efforts, identifying key personnel within organizations can be crucial. These tools help you search for contact information:
 - **General**: [Webmii](https://webmii.com), [Epieos](https://epieos.com)
 - **US-specific**: [WhitePages](https://www.whitepages.com), [TruePeopleSearch](https://www.truepeoplesearch.com)
@@ -114,10 +134,31 @@ For more targeted CRM efforts, identifying key personnel within organizations ca
 
 ---
 
-### **7. Advanced Techniques: Reverse Image Search and Metadata**  
-**Reverse Image Search**: Use profile pictures found online (e.g., LinkedIn) to search for related accounts and uncover additional information.
+### **8. Finding and Analyzing Information on Social Media**  
+Social media platforms are rich sources of publicly available information that can be extremely valuable for CRM purposes. Here’s how to use OSINT techniques to extract useful data from social media:
 
-**Exif Data**: Use tools like [Exif.tools](https://exif.tools) to extract metadata from images. This can reveal information such as the location where a photo was taken, which may assist in geographically targeting prospects.
+#### **Finding Birthdates and Personal Information**:
+- Use **Google** to search for public social media posts that mention birthdays or other personal information.
+  - Example: `"John Doe" intext:"happy birthday" site:twitter.com`
+- Search for resumes or other documents posted online:
+  - Example: `"Jane Smith" resume filetype:pdf` to find public resumes that may include contact information, work history, etc.
+
+#### **Twitter OSINT**:
+- **Advanced Search**: Use specific search operators to locate tweets or information within a certain time frame or geographic area.
+  - Example: `from:thecybermentor` finds all tweets from a particular user.
+  - Example: `(from:apache_pulsar) until:2024-03-01 since:2024-02-01` filters tweets within a specific date range.
+  - Use `geocode:` to locate tweets from a particular area: `geocode:44.8588834,-0.5559729,1km`.
+- **Tools**:  
+  - **Tweet Binder**: [tweetbinder.com](https://www.tweetbinder.com/blog/twitter-advanced-search/) – provides insights and analysis on specific hashtags, users, or keywords.
+  - **Twitonomy**: [twitonomy.com](https://twitonomy.com) – gives detailed analytics on Twitter activity and user behavior.
+
+#### **LinkedIn OSINT**:
+- **Reverse Image Search**: Use the profile picture of a LinkedIn user to find other profiles or online accounts.
+- **Extracting Contact Information**: Check the "Contact Info" section on profiles for additional details such as email addresses or websites.
+- **Analyze Connections**: Look through a person's connections, activity, and posts to gather insights on their professional network and interests.
+- **API Exploration**: If you have development resources, use LinkedIn's paid API or third-party tools to collect data programmatically for CRM enrichment.
+
+**Tip**: LinkedIn allows you to export your own network data. This can be useful for understanding your existing connections and for CRM data import.
 
 ---
 
