@@ -1,0 +1,38 @@
+{
+  "title_slide": {
+    "title": "",
+    "subtitle": ""
+  },
+  "slides": [
+    {
+      "type": "content",
+      "title": "",
+      "contents": [
+        "",
+        "",
+        ""
+      ],
+      "image": "img00.jpg"
+    },
+    {
+      "type": "intermediary",
+      "title": "",
+      "description": "",
+      "image": "img01.jpg"
+    },
+    {
+      "type": "content",
+      "title": "",
+      "contents": [
+        "",
+        "",
+        ""
+      ],
+      "image": "img02.jpg"
+    }
+  ],
+  "end_slide": {
+    "title": "Thank You!",
+    "content": ""
+  }
+}
