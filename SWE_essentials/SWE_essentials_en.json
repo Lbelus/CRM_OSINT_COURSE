@@ -1,0 +1,247 @@
+{
+  "title_slide": {
+    "title": "Software Engineering Essentials",
+    "subtitle": "A Comprehensive Overview of Software Development"
+  },
+  "slides": [
+    {
+      "type": "content",
+      "title": "Role of a Software Engineer",
+      "contents": [
+        "Overview:\n  Software engineers code, test, debug, and maintain software systems.\n  They solve problems and build applications that meet user needs.",
+        "Types of Engineers:\n  Front-end: Focuses on the user interface.\n  Back-end: Manages server-side logic, databases, and APIs.\n  Full-Stack: Combines both front-end and back-end skills.\n  DevOps: Ensures smooth deployment and operation of software systems.\n  Quality Assurance: Tests software to ensure quality.",
+        "Collaboration:\n  Engineers work closely with project managers, designers, and business analysts to deliver high-quality software solutions.\n  They participate in planning, design discussions, and sprint reviews."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img00.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: What is a tech stack ?",
+      "description": "A way of visualizing a collection of software systems and languages used together to get work done",
+      "image": ""
+    },
+    {
+      "type": "content",
+      "title": "What is a tech stach ?",
+      "contents": [
+        "A tech stack is the set of technologies used to develop an application, including programming languages, frameworks, databases, front-end and back-end tools, and APIs.\n A solution stack or software stack is a set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to \"run on\" or \"run on top of\" the resulting platform.",
+        "Links:\n  https://stackshare.io\n  https://www.crunchbase.com,"
+      ],
+      "image": ""
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Integrated Development Environment (IDE)",
+      "description": "A deep dive into the tools that software engineers use to write, debug, and manage their code effectively.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img01.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Integrated Development Environment (IDE)",
+      "contents": [
+        "What is an IDE?\n  An Integrated Development Environment is a software suite that provides features like code completion, Languages Server Protocol capabilities such syntax highlighting, compilation and debugging to facilitate software development.",
+        "IDEs are feature-rich and provide comprehensive tools for software development:\n  Visual Studio: Robust with a comprehensive interface.\n  PyCharm: Specialized for Python development.\n  IntelliJ IDEA: Comprehensive for Java and other languages.",
+                "Importance:\n  Boosts productivity by streamlining the coding process.\n  Helps maintain code quality by providing linting, error detection, and version control integration.",
+        "Code editors are lightweight and focus primarily on editing code, with optional extensions for more functionality:\n  Visual Studio Code (Microsoft)\n  Sublime Text\n  Atom (GitHub)\n  Notepad++\n  Vim\n  nvim\n  Emacs",
+        "Key Differences:\n  IDEs usually include debugging tools, version control integration, build automation, and more;\n  Code Editors are faster, lightweight, and suitable for quick edits or scripting tasks, with functionality extended via plugins or extensions.\nLinks:\n  https://www.youtube.com/watch?v=rUCl_EivGPE\n  https://blog.jetbrains.com/webstorm/2024/03/ides-vs-code-editors/\n  https://stackoverflow.com/beta/discussions/78046082/does-vs-code-count-as-an-ide"
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img02.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Configuration Management with Version Control Systems (Git)",
+      "description": "Exploring how version control systems like Git play a critical role in collaborative development.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img03.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Configuration Management with Version Control Systems (Git)",
+      "contents": [
+        "Git is an open-source and fast version control system that tracks changes in computer files and handles small to huge software development projects. Git is a top-rated utility for software developers, allowing them to work together without disrupting each other’s work. Git was created by Linus Torvalds in 2005 for the Linux kernel. Version Control Basics:\n  Essential for tracking changes in code and enabling collaborative development.\n  Provides a history of changes, allowing easy rollbacks.",
+        "Git and Platforms:\n  GitHub, GitLab, and Bitbucket are popular platforms for managing Git repositories.\n  They offer tools for code review, issue tracking, and project management.",
+        "Why It Matters:\n  Enhances code quality by enabling code review and collaboration.\n  Helps manage release cycles, feature branches, and bug fixes."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img04.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: The Importance of Data Structures and Algorithms",
+      "description": "Understanding the fundamentals of data structures and algorithms is crucial for writing efficient code.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img05.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "The Importance of Data Structures and Algorithms",
+      "contents": [
+        "What They Are:\n  Data Structures: Organized ways to store and manage data (arrays, linked lists, trees).\n  Algorithms: Step-by-step procedures for solving problems (sorting, searching).",
+        "Why They Matter:\n  Enable the writing of efficient, optimized code that can scale with larger data sets and more users.",
+        "Real-World Applications:\n  Used in databases, search engines, network communications, and more."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img06.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Software Architecture and System Design",
+      "description": "Learn about the high-level structure of software systems and their impact on scalability, maintainability, and reliability.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img07.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Software Architecture and System Design",
+      "contents": [
+        "Defining Software Architecture:\n  The blueprint for a software system, outlining its components and how they interact.",
+        "System Design Concepts:\n  Microservices: A collection of small, independent services.\n  Monolithic: A single, unified codebase.\n  Client-Server Model: Separates the front-end (client) from the back-end (server).",
+        "Why It’s Important:\n  Affects software scalability, maintainability, and reliability.\n  Good architecture allows for easier updates, debugging, and long-term growth."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img08.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: SQL vs NoSQL Databases",
+      "description": "Exploring the differences between SQL and NoSQL databases and when to use each.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img09.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "SQL vs NoSQL Databases",
+      "contents": [
+        "SQL:\n  Structured, schema-based databases (e.g., MySQL, PostgreSQL).\n  Best suited for applications requiring complex queries and transactions.",
+        "NoSQL:\n  Flexible, schema-less databases (e.g., MongoDB, Cassandra).\n  Ideal for large-scale data storage, real-time analytics, and unstructured data.",
+        "When to Use Each:\n  Use SQL for transactional systems where data integrity is crucial.\n  Use NoSQL for applications that require flexible schemas or horizontal scaling."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img10.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: APIs (Application Programming Interfaces)",
+      "description": "Learn how APIs enable communication between different software applications.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img11.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "APIs (Application Programming Interfaces)",
+      "contents": [
+        "What is an API?\n  A set of protocols that allow different software applications to communicate and share data.",
+        "Importance:\n  Enables integration of services like social media logins, payment processing, and data exchange.",
+        "Examples:\n  REST: Representational State Transfer, widely used for web APIs.\n  GraphQL: A query language for APIs, allows clients to request specific data.\n  Importance of Documentation: Clear API documentation is crucial for successful integration."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img12.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Frameworks",
+      "description": "Frameworks provide a foundation of pre-written code to streamline the software development process.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img13.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Frameworks",
+      "contents": [
+        "Definition:\n  A collection of pre-written code libraries that provide structure and common functionality to streamline development.",
+        "Examples:\n  Front-end: React, Angular, Vue.js.\n  Back-end: Django (Python), Spring (Java), Express (Node.js).",
+        "Why Use Frameworks:\n  Improve efficiency by providing reusable components and enforcing best practices.\n  Reduce boilerplate code, allowing developers to focus on unique features."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img14.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Electronic Data Interchange (EDI)",
+      "description": "Understand the role of EDI in software development for exchanging business information electronically.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img15.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Electronic Data Interchange (EDI)",
+      "contents": [
+        "What is EDI?\n  A standardized method for exchanging business information electronically between organizations.\n  EDI ease the exchange of various type of documents such as purchase orders, invoices, ect...\nlinks: https://www.edibasics.com/what-is-edi/",
+        "Role in Software Development:\n  Implementing EDI standards for data exchange ensures compatibility and efficiency in business communications.",
+        "Common Formats:\n  XML, JSON, and EDIFACT are some of the formats used in EDI implementations."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img16.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Project Management in Software Development",
+      "description": "Project management practices help coordinate software development tasks, timelines, and resources effectively.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img17.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Project Management in Software Development",
+      "contents": [
+        "Stand-Ups and Agile:\n  Typically a 15-minute meeting where each team member discusses what they accomplished the previous day, their plan for the current day, and any blockers they are facing. This fosters transparency and allows the team to quickly address issues and adjust their plans if necessary.\n  Encourages a sense of accountability among team members as everyone shares their daily progress.\n  Helps maintain momentum by ensuring that any impediments are swiftly identified and resolved.",
+        "Agile Methodology:\n  A framework for managing software development projects that emphasizes iterative work cycles, known as sprints, usually lasting 1-4 weeks. After each sprint, a review or retrospective meeting is held to assess what went well and what could be improved.\n  Focuses on delivering small, workable increments of the product early and frequently, which allows for constant feedback and course correction.",
+        "Agile Methodology:\n  Agile frameworks like Scrum and Kanban help break down complex projects into manageable pieces, promote flexibility, and enable teams to quickly adapt to changing requirements or market conditions.\n  Agile practices include continuous integration, test-driven development (TDD), and pair programming, which enhance the quality of the software and the efficiency of the development process.",
+                "Links:\n  https://scrumguides.org/scrum-guide.html#daily-scrum\n  https://www.atlassian.com/agile/scrum/standups\n  https://www.agilealliance.org/agile101/\n  https://www.scrum.org/resources/scrum-guide\n  https://www.atlassian.com/agile",
+        "Tools, Jira:\n  An issue and project tracking tool widely used for managing Agile projects. It allows teams to create user stories, plan sprints, and monitor progress through customizable dashboards and reports.\n  Supports the Agile framework by enabling backlog prioritization, sprint planning, and real-time collaboration among team members.\n  Integrates with various other development tools (e.g., Bitbucket, GitHub, Confluence) for a seamless workflow.\n  Provides features for managing bugs, tracking tasks, and visualizing project health with tools like Kanban boards and burndown charts.",
+        "Tools: Trello\n  A visual project management tool that uses boards, lists, and cards to organize tasks and workflows. Its drag-and-drop interface makes it easy to track the progress of tasks through different stages.\n  Supports collaboration by allowing team members to comment, attach files, set deadlines, and add checklists to cards, keeping everyone aligned on the project status.\n  Useful for smaller teams or projects where a lightweight, flexible approach to task management is preferred.\n  Can be integrated with other tools like Slack, Google Drive, and GitHub to streamline the development process.",
+        "Importance of Best Practices, Timely Delivery:\n  Adopting best practices, such as setting realistic milestones and using tools like Gantt charts for timeline visualization, helps teams stay on schedule and meet project deadlines.\n  Agile practices like regular sprint reviews and retrospectives ensure that potential delays are identified early, and necessary adjustments are made promptly.",
+        "Links:\n  https://www.atlassian.com/software/jira/guides\n  https://www.guru99.com/jira-tutorial-a-complete-guide-for-beginners.html\n  https://trello.com/guide\n  https://blog.trello.com/tag/productivity",
+        "Importance of Best Practices, Proper Resource Allocation:\n  Using resource management techniques like capacity planning, workload balancing, and role-specific task assignments ensures that team members are not overburdened, and each task is handled by someone with the appropriate skills.\n  Effective use of tools (e.g., Jira's workload pie chart, Trello’s custom fields) enables project managers to monitor resource utilization and optimize team productivity.",
+        "Importance of Best Practices, Clear Communication:\n  Open and consistent communication channels, such as daily stand-ups, sprint retrospectives, and project status reports, are essential for aligning the team and stakeholders.\n  Documentation tools like Confluence and Slack provide spaces for collaborative documentation, discussions, and knowledge sharing, reducing the likelihood of misunderstandings and misaligned expectations.\n  Defining roles and responsibilities upfront, along with creating a RACI (Responsible, Accountable, Consulted, Informed) matrix, promotes clarity and accountability among team members.",
+        "Importance of Best Practices, Continuous Improvement:\n  Best practices encourage the team to reflect on their work and seek ways to enhance processes and outputs. Retrospective meetings provide opportunities for feedback and learning.\n  Adopting coding standards, conducting regular code reviews, and automating testing (e.g., CI/CD pipelines) improve code quality and reduce technical debt over time.\n  Leveraging best practices in project management, such as risk assessment and mitigation planning, helps foresee potential issues and establish contingency plans, ensuring the project's success.",
+        "Links:\n  https://www.wrike.com/blog/project-milestones-definition-how-to-use-them/\n  https://www.atlassian.com/team-playbook/plays/retrospective\n  https://www.smartsheet.com/resource-management/capacity-planning\n  https://www.atlassian.com/software/jira/guides/roadmaps/advanced-roadmaps\n  https://www.atlassian.com/team-playbook/plays/raci-matrix\n  https://slack.com/resources/articles/project-management\n  https://about.gitlab.com/topics/ci-cd/"
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img18.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Open Source Licenses for Commercial Use",
+      "description": "Open source licenses define the terms for using, modifying, and distributing software.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img19.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Open Source Licenses for Commercial Use",
+      "contents": [
+        "What is Open Source?\n  Software that can be freely used, modified, and distributed by anyone.",
+        "Licenses:\n  MIT License: Permissive, allows nearly unrestricted use.\n  GPL: Requires derived works to be open source.\n  Apache: Provides an explicit grant of patent rights to users.",
+        "Open source business models:\n  Open core : have an open-source core and a sell-closed features on top.\n  Dual licensing model : one project that get licensed through a viral GPL-style licence and commercial closed licence (MySQL)\n  Or business source or time delayed open source\n  Service model : propose a productised version of an open source project and monetise service such as support, training, specific features.",
+        "Why It Matters:\n  Choosing the right license is crucial for commercial use, as it determines the legal rights and obligations for users and developers.",
+        "Links:\n  https://www.youtube.com/watch?v=krcKkiKBKms\n  https://snyk.io/learn/open-source-licenses/"
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img20.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Recruitment Process for Software Engineers",
+      "description": "The recruitment process involves assessing both technical and soft skills to find the right fit for the team.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img21.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Recruitment Process for Software Engineers",
+      "contents": [
+        "The recruitment process for software engineers typically includes multiple stages:\n  Coding Tests: These are used to assess the candidate's coding proficiency, problem-solving skills, and understanding of algorithms. Common platforms for these tests include LeetCode, HackerRank, and Codility.\n  Technical Interviews: Focus on assessing knowledge of software development principles, system design, databases, and real-world problem-solving through whiteboard exercises or pair programming.\n  Soft Skill Assessments: Evaluate a candidate's communication, teamwork, adaptability, and cultural fit through behavioral questions and situational role-play scenarios.",
+        "Links:\n  https://leetcode.com/\n  https://www.hackerrank.com/\n  https://www.codingame.com/\n  https://www.interviewcake.com/",
+        "Skills employers look for, technical Skills:\n  Deep understanding of at least one programming language (e.g., Python, Java, JavaScript).\n  Strong grasp of data structures (e.g., arrays, linked lists, trees) and algorithms (e.g., sorting, searching, dynamic programming).\n  Knowledge of software architecture, design patterns, databases (SQL/NoSQL), and development tools (e.g., Git, Docker).",
+        "Skills employers look for, Soft Skills:\n  Communication: Ability to explain technical concepts clearly to both technical and non-technical stakeholders.\n  Teamwork: Experience with collaborative development processes (e.g., code reviews, pair programming) and Agile methodologies.\n  Problem-Solving: Creative thinking to tackle coding challenges and devise efficient, scalable solutions.",
+        "Links:\n  https://roadmap.sh/software-engineer\n  https://www.geeksforgeeks.org/data-structures/\n  https://www.freecodecamp.org/news/technical-skills-software-developers/\n  https://www.atlassian.com/agile",
+        "Relevance for PMs:\n  Collaboration with HR: Project Managers (PMs) work closely with HR to define job descriptions, identify the technical and soft skills required for the project, and participate in interviews to ensure alignment with the team's needs.\n  Ensuring Fit: PMs ensure new hires not only possess the technical expertise but also have the right mindset and soft skills that align with the project's goals, team dynamics, and company culture.\n  Project Success: By being involved in the recruitment process, PMs can help build a team capable of delivering high-quality software efficiently and within deadlines.",
+        "Links:\n  https://www.cio.com/article/286706/what-does-a-project-manager-do.html\n  https://www.atlassian.com/agile/project-management\n  https://www.turing.com/resources/how-to-hire-developers"
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img22.JPEG"
+    },
+    {
+      "type": "intermediary",
+      "title": "Next Section: Software Engineer Psychology",
+      "description": "Understanding the psychological aspects of software engineering helps foster a balanced work environment.",
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img23.JPEG"
+    },
+    {
+      "type": "content",
+      "title": "Software Engineer Psychology",
+      "contents": [
+        "Impostor Syndrome:\n  A common feeling of inadequacy among engineers, even when they are successful.\n  Can impact productivity and self-confidence.",
+        "God Syndrome:\n  Overconfidence in one's abilities, leading to a lack of collaboration and ignoring team input.",
+        "Role of PMs:\n  Project Managers play a key role in creating a balanced work environment by providing constructive feedback, promoting teamwork, and recognizing achievements."
+      ],
+      "image": "/home/h_user/repos/CRM_OSINT_COURSE/SWE_essentials/img_source/img24.JPEG"
+    }
+  ],
+  "end_slide": {
+    "title": "Thank You!",
+    "content": "Questions or Discussions"
+  }
+}
+
