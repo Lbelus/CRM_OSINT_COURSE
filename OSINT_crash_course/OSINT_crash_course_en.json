@@ -1,0 +1,75 @@
+{
+  "title_slide": {
+    "title": "Using OSINT as a \"Poor Man's CRM\"",
+    "subtitle": "Enhancing Your CRM Skillset with Open Source Intelligence"
+  },
+  "slides": [
+    {
+      "type": "content",
+      "title": "Introduction to OSINT",
+      "contents": [
+        "Introduction to OSINT\nWhat is OSINT?\n  Open Source Intelligence involves collecting and analyzing publicly available information.\nSources of OSINT:\n  Internet, Public Records, Academic Sources, News and Media.\nApplications in CRM:\n  Enhances market trends understanding and enriches CRM knowledge."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Basics of OSINT: Advanced Google Search",
+      "contents": [
+        "Basics of OSINT: Advanced Google Search\nUsing Advanced Search Operators:\n  \" \": Search for an exact word or phrase.\n  site:: Search within a specific website.\n  filetype:: Search for specific file types.\nKey Takeaway:\n  Mastery of search operators enhances research capabilities."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Organizing OSINT Data",
+      "contents": [
+        "Organizing OSINT Data\nTools for Data Management:\n  KeepNote, CherryTree, Joplin, Notion, OneNote, Greenshot.\nKey Takeaway:\n  Proper organization of gathered data is crucial for successful OSINT."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Creating a Sock Puppet for OSINT",
+      "contents": [
+        "Creating a Sock Puppet for OSINT\nSteps:\n  Generate Fake Personal Information.\n  Create a Profile Picture using AI-generated faces.\n  Set up temporary email and phone numbers.\nKey Takeaway:\n  Ethical guidelines must be followed when using fake identities."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Advanced Techniques: Reverse Image Search and Metadata",
+      "contents": [
+        "Advanced Techniques: Reverse Image Search and Metadata\nTechniques:\n  Reverse Image Search using profile pictures.\n  Extract metadata using Exif tools.\nKey Takeaway:\n  These techniques reveal hidden information aiding CRM efforts."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Tools for Gathering and Verifying Information",
+      "contents": [
+        "Tools for Gathering and Verifying Information\nVerification Tools:\n  Hunter.io, Phonebook.cz, Clearbit Connect.\nKey Takeaway:\n  Verification tools help validate information gathered."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Finding People and Contact Information",
+      "contents": [
+        "Finding People and Contact Information\nGeneral Tools:\n  Webmii, Epieos, WhitePages.\nSocial Media:\n  Use advanced search techniques on LinkedIn and Twitter.\nKey Takeaway:\n  OSINT can uncover contact information essential for CRM."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Analyzing Social Media for CRM",
+      "contents": [
+        "Analyzing Social Media for CRM\nTechniques:\n  Use advanced search on social media.\n  Tools: Tweet Binder, Twitonomy.\nKey Takeaway:\n  Social media is a rich source for CRM insights."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Conclusion: OSINT as a Strategic CRM Asset",
+      "contents": [
+        "Conclusion: OSINT as a Strategic CRM Asset\nEnhancing CRM with OSINT:\n  Enrich your CRM with open-source insights.\nKey Takeaway:\n  OSINT offers a strategic, cost-effective way to enrich CRM insights."
+      ]
+    }
+  ],
+  "end_slide": {
+    "title": "Thank You!",
+    "content": "Questions or Discussions"
+  }
+}
