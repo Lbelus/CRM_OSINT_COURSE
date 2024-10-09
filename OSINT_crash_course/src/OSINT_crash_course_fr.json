@@ -1,0 +1,75 @@
+{
+  "title_slide": {
+    "title": "Utiliser l'OSINT comme un \"CRM du pauvre\"",
+    "subtitle": "Améliorer vos compétences CRM avec l'intelligence open source"
+  },
+  "slides": [
+    {
+      "type": "content",
+      "title": "Introduction à l'OSINT",
+      "contents": [
+        "Introduction à l'OSINT\nQu'est-ce que l'OSINT ?\n- L'intelligence open source consiste à collecter et analyser des informations publiquement accessibles.\nSources de l'OSINT :\n- Internet, registres publics, sources académiques, actualités et médias.\nApplications dans le CRM :\n- Améliore la compréhension des tendances du marché et enrichit les connaissances CRM."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Les bases de l'OSINT : Recherche Google avancée",
+      "contents": [
+        "Les bases de l'OSINT : Recherche Google avancée\nUtilisation des opérateurs de recherche avancée :\n- \" \": Recherche d'un mot ou d'une phrase exacte.\n- site:: Rechercher sur un site web spécifique.\n- filetype:: Rechercher des types de fichiers spécifiques.\nPoint clé :\n- La maîtrise des opérateurs de recherche améliore les capacités de recherche."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Organiser les données OSINT",
+      "contents": [
+        "Organiser les données OSINT\nOutils pour la gestion des données :\n- KeepNote, CherryTree, Joplin, Notion, OneNote, Greenshot.\nPoint clé :\n- Une bonne organisation des données collectées est essentielle pour un OSINT réussi."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Créer une \"Sock Puppet\"",
+      "contents": [
+        "Créer un compte factice pour l'OSINT\nÉtapes :\n- Générer des informations personnelles factices.\n- Créer une photo de profil à l'aide de visages générés par l'IA.\n- Configurer des e-mails et numéros de téléphone temporaires.\nPoint clé :\n- Les directives éthiques doivent être suivies lors de l'utilisation de fausses identités."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Techniques avancées : Recherche d'image inversée et métadonnées",
+      "contents": [
+        "Techniques avancées : Recherche d'image inversée et métadonnées\nTechniques :\n- Recherche d'image inversée en utilisant des photos de profil.\n- Extraire les métadonnées à l'aide d'outils Exif.\nPoint clé :\n- Ces techniques révèlent des informations cachées qui aident les efforts CRM."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Outils pour la collecte et la vérification des informations",
+      "contents": [
+        "Outils pour la collecte et la vérification des informations\nOutils de vérification :\n- Hunter.io, Phonebook.cz, Clearbit Connect.\nPoint clé :\n- Les outils de vérification aident à valider les informations recueillies."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Trouver des personnes et des informations de contact",
+      "contents": [
+        "Trouver des personnes et des informations de contact\nOutils généraux :\n- Webmii, Epieos, Pages Blanches.\nRéseaux sociaux :\n- Utiliser des techniques de recherche avancée sur LinkedIn et Twitter.\nPoint clé :\n- L'OSINT peut révéler des informations de contact essentielles pour le CRM."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Analyser les réseaux sociaux pour le CRM",
+      "contents": [
+        "Analyser les réseaux sociaux pour le CRM\nTechniques :\n- Utiliser la recherche avancée sur les réseaux sociaux.\n- Outils : Tweet Binder, Twitonomy.\nPoint clé :\n- Les réseaux sociaux sont une riche source d'informations pour le CRM."
+      ]
+    },
+    {
+      "type": "content",
+      "title": "Conclusion : L'OSINT comme atout stratégique pour le CRM",
+      "contents": [
+        "Conclusion : L'OSINT comme atout stratégique pour le CRM\nAméliorer le CRM avec l'OSINT :\n- Enrichissez votre CRM avec des informations provenant de sources ouvertes.\nPoint clé :\n- L'OSINT offre un moyen stratégique et rentable d'enrichir les informations CRM."
+      ]
+    }
+  ],
+  "end_slide": {
+    "title": "Merci !",
+    "content": "Questions ou Discussions"
+  }
+}
