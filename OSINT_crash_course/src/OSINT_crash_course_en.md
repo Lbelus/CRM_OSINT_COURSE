@@ -1,10 +1,4 @@
 ## **Using OSINT as a "Poor Man's CRM": Enhancing Your CRM Skillset with Open Source Intelligence**
-### **7. Advanced Techniques: Reverse Image Search and Metadata**  
-**Reverse Image Search**: Use profile pictures found online (e.g., LinkedIn) to search for related accounts and uncover additional information.
-
-**Exif Data**: Use tools like [Exif.tools](https://exif.tools) to extract metadata from images. This can reveal information such as the location where a photo was taken, which may assist in geographically targeting prospects.
-
----
 
 **Disclaimers:**
 While OSINT is a powerful tool, it's crucial to use it responsibly:
